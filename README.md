@@ -12,11 +12,13 @@ both in Jupyter Notebook (using its new interactive debugger) and in VSCode.
 ## Outline
 
 1. Why debugging is important
-2. Types of debugging: tracing vs interactive
-3. Debugging is problem solving: divide and conquer, hypothesis testing
-4. Practical debugging in Jupyter
-5. Practical debugging in VSCode
-6. Conclusions
+2. Sources of bugs
+3. Types of debugging: tracing vs interactive
+4. Debugging is problem solving: divide and conquer, hypothesis testing
+5. Think of your future self
+6. Practical debugging in Jupyter
+7. Practical debugging in VSCode
+8. Conclusions
 
 ## Preparatory work
 
