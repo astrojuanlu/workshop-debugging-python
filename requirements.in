@@ -1,5 +1,5 @@
 notebook
-jupyterlab_rise
+# jupyterlab_rise  # https://github.com/jupyterlab-contrib/rise/issues/28
 
 # Advanced autocomplete
 jupyterlab-lsp>=5.0.0rc0

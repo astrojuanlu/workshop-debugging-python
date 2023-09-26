@@ -166,7 +166,6 @@ jupyter-server==2.7.3
     # via
     #   jupyter-lsp
     #   jupyterlab
-    #   jupyterlab-rise
     #   jupyterlab-server
     #   nbclassic
     #   notebook
@@ -182,8 +181,6 @@ jupyterlab-lsp==5.0.0rc0
     # via -r requirements.in
 jupyterlab-pygments==0.2.2
     # via nbconvert
-jupyterlab-rise==0.41.0
-    # via -r requirements.in
 jupyterlab-server==2.25.0
     # via
     #   jupyterlab
