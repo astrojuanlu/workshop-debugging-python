@@ -1,0 +1,9 @@
+notebook
+jupyterlab_rise
+
+# Advanced autocomplete
+jupyterlab-lsp>=5.0.0rc0
+python-lsp-server[all]
+
+# Reactive kernel (execution order and cell dependency hints)
+ipyflow
