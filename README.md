@@ -1,5 +1,7 @@
 # Workshop: "Into the rabbit hole: Debugging in Python"
 
+![Rabbit hole](./img/rabbit-hole.gif)
+
 Your code gives an error. Or worse: it doesn't give an error, but doesn't do what you want.
 Welcome to the hard part of programming! What to do now?
 
